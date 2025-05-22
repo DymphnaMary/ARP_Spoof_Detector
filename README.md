@@ -1,6 +1,6 @@
-# ARP Spoofing with Windows as the Attacker and Kali as the Victim
+# ARP Spoofing and Detection
 
-This project demonstrates an ARP spoofing attack, where the attacker positions themselves as a Man-in-the-Middle (MITM) by exploiting the ARP (Address Resolution Protocol) mechanism.
+This project demonstrates an ARP spoofing attack and detection script, where the attacker positions themselves as a Man-in-the-Middle (MITM) by exploiting the ARP (Address Resolution Protocol) mechanism.
 
 ---
 
